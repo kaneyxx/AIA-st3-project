@@ -3,7 +3,7 @@
 
 <此repo單純留作紀錄分享，有興趣者歡迎來信討論 kaneyxx@gmail.com>
 
-作法為BioBERT + R-BERT(如下圖所示)
-感謝PyTorch版BioBERT pre-trained weight貢獻者monologg
+作法為BioBERT + R-BERT(如下圖所示)  
+感謝PyTorch版BioBERT pre-trained weight貢獻者Jangwon Park
 
 ![](https://i.imgur.com/mGlORRW.png)
